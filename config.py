@@ -1,7 +1,7 @@
 import os
 
 # DashScope / OpenAI-compatible API
-DASHSCOPE_API_KEY = "sk-c227e0dd36ab4bb897f7768df2f8d012"
+DASHSCOPE_API_KEY = "your-api-key-here"  # 替换为你的DashScope API Key
 DASHSCOPE_BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1"
 LLM_MODEL = "qwen-plus"
 EMBEDDING_MODEL = "text-embedding-v3"
